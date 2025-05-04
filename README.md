@@ -1,4 +1,5 @@
 Activity 1: 
+
 ![image](https://github.com/user-attachments/assets/978bc03a-e075-4fa7-9fc9-fab573c93925)
 ![Screenshot 2025-05-04 221609](https://github.com/user-attachments/assets/78fb8510-0785-4453-aae5-b813c3ae23b3)
 
