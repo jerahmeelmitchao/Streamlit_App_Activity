@@ -8,6 +8,7 @@ I added user input fields like `st.text_input` and `st.number_input` to collect 
 then displayed real-time output based on the input to make the app interactive and dynamic.
 
 Activity 2
+
 ![image](https://github.com/user-attachments/assets/c7f2ef11-f792-47ba-992c-0d38d05b45d3)
 ![Screenshot 2025-05-04 221522](https://github.com/user-attachments/assets/db61e07b-f122-4b51-acb5-392f8c2ae630)
 
@@ -16,6 +17,7 @@ I displayed the data with `st.dataframe`, added a `st.checkbox` to optionally vi
 This setup provided an interactive and user-friendly way to explore datasets with at least five columns.
 
 Activity 3
+
 ![image](https://github.com/user-attachments/assets/146f7bfb-502f-4d9f-a0fe-1b361c1ee64b)
 ![Screenshot 2025-05-04 221341](https://github.com/user-attachments/assets/0f2f80bb-6dbf-48ef-b766-18e4263c6923)
 ![Screenshot 2025-05-04 221429](https://github.com/user-attachments/assets/72cf2f9d-da12-4368-85b5-f7662e7790a8)
@@ -27,6 +29,7 @@ I used `st.columns` and `st.expander` to organize and toggle detailed content ab
 This approach helped present complex topics in a more user-friendly and visually organized way.
 
 Activity 4
+
 ![image](https://github.com/user-attachments/assets/66e9c96f-3ae2-4ab1-9e40-efacef02a49d)
 ![Screenshot 2025-05-04 221232](https://github.com/user-attachments/assets/270ae5dd-3ced-461e-875f-06d5362d4907)
 ![Screenshot 2025-05-04 221215](https://github.com/user-attachments/assets/5c5df79e-6879-45fc-9c9c-9e29771d3088)
@@ -40,6 +43,7 @@ I used the requests library to fetch this data and parsed it to extract relevant
 With Streamlit, I displayed the results using widgets and created five different chart types to visually represent the weather trends and comparisons.
 
 Activity 5
+
 ![image](https://github.com/user-attachments/assets/fb6d68a1-6438-4f9a-b35c-8ea16be78670)
 ![Screenshot 2025-05-04 220919](https://github.com/user-attachments/assets/602ff16c-75e9-4cc9-a283-faca93fb3642)
 ![Screenshot 2025-05-04 220900](https://github.com/user-attachments/assets/65239ae3-07ef-40ee-bcd1-03f76ac96e0d)
@@ -49,6 +53,7 @@ I wrote SQL queries to fetch and filter records, displayed the results using st.
 For added functionality, I implemented a basic user authentication system to control access to database operations.
 
 Activity 6
+
 ![image](https://github.com/user-attachments/assets/dcb2b8f8-d745-434a-b1f9-698c28eab4a6)
 ![Screenshot 2025-05-04 222100](https://github.com/user-attachments/assets/3ca2c1f7-cd02-44f7-96f9-ac6396ba57df)
 
